@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Bibliotecas:
 - [Google fonts](https://fonts.google.com/)
 
-PROJETO
+PROJETO <br>
 Zingen é uma página de um aplicativo de karaokê com Inteligência Artificial, responsiva e adaptável para desktop e mobile. É dividido em seções: header, hero, about, features, pricing e download.
 
 LICENÇA <br> 
