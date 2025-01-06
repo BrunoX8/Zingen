@@ -10,5 +10,5 @@ Bibliotecas:
 PROJETO
 Zingen é uma página de um aplicativo de karaokê com Inteligência Artificial, responsiva e adaptável para desktop e mobile. É dividido em seções: header, hero, about, features, pricing e download.
 
-LICENÇA 
+LICENÇA <br> 
 Esse projeto é uma réplica do projeto desenvolvido pela Rocketseat em seu curso de Fullstack.
